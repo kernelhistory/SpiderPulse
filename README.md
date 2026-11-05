@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner.svg" alt="SpiderPulse OSINT Banner" width="100%" />
+  <img src="docs/assets/hero-banner.svg" alt="SpiderPulse OSINT Banner" width="100%" />
 </p>
 
 <p align="center">
