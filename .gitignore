@@ -1,0 +1,18 @@
+# Gradle & Build Artifacts
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local & IDE Configuration
+local.properties
+.idea/
+*.iml
+.DS_Store
+*.swp
+
+# Signing Keystores & Secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
